@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+.body-dron-block{
+    background-color: #141617;
+    width: 1200px;
+    height: 3500px;
+}
+.dron-background-image{
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 1500px;
+   
+}
+.dronshop-logo{
+    margin: -750px 0px 0px 20px;
+    
+}
+.dron-logo-style{
+    width: 262px;
+    height: 56px;
+}
+a,.dron-caption-style,.dron-text-style{
+    text-decoration: none;
+    color: white;
+    font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  
+}
+a:hover{
+    font-size: 30px;
+    transition-duration: 1s;
+}
+.dron-ul-block,.dron-ul-style{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    gap: 40px;
+    font-size: 25px;
+    margin: -23px -130px 0px 0px;
+}
+.caption-dron{
+  font-size: 46px;
+  text-align: center;
+  margin: 160px 0px 0px 350px;
+}
+.dron-text-block{
+    padding: 0px 50px 0px 50px;
+    margin-left: 350px;
+    line-height: 1.5;
+    font-size: 24px;
+}
+.dron-main-caption{
+    text-decoration: none;
+    color: white;
+    font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 50px;
+  text-align: center;
+  margin: 360px 0px 0px 290px;
+}
+.dron-blocks,.dron-images-block{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 110px;
+    margin: 122px -160px 0px 100px;
+}
+.block,.block1{
+    width: 550px;
+    height: 600px;
+    background-color: #2A2A2A;
+}
+.dron-names-text{
+    text-decoration: none;
+    color: white;
+    font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 390px;
+    font-size: 30px;
+    margin: 90px -260px 0px 100px;
+}
+.show-more-text{
+    font-size: 23px;
+    text-align: center;
+    margin: 122px -160px 0px 170px;
+}
+.footer-block{
+    width: 1500px;
+    height: 560px;
+    background-color: #2A2A2A;
+    margin: 630px 0px 0px 0px;
+}
+.footer-spisok-dron{
+    margin-left: 20px;
+
+}
+.ul-types-spisok-dron,.ul-types-spisok-dron2,.caption-text-about{
+    color: white;
+    font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  display: flex;
+  flex-direction: column;
+  font-size: 28px;
+  line-height: 2.5;
+
+}
+.caption-text-about-style{
+    margin: -50px 0px 0px 1150px;
+
+}
+.ul-types-spisok-dron2{
+    display: flex;
+    flex-direction: row;
+    gap: 76px;
+    margin-top: 115px;
+}

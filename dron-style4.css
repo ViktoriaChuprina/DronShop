@@ -1,0 +1,85 @@
+.dron-background-image{
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 1500px;
+    height: 686px;
+}
+.caption-block-camera1{
+    color: white;
+    font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 50px;
+  margin: -660px 0px 0px 650px;
+}
+.block-login{
+    width: 700px;
+    height: 500px;
+    background-color: white;
+}
+.block-form-login{
+    display: flex;
+    align-items: center;
+    z-index: 100;
+    margin: 44px 0px 0px 400px;
+}
+.label-text-login{
+    color: rgb(0, 0, 0);
+    font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 30px;
+
+}
+.login-input-field{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.input-login{
+    width: 504px;
+    height: 57px;
+    background-color: #F3F3F3;
+    border: none;
+}
+.label-text-login-1{
+    margin: 50px 0px 0px 95px;
+}
+.text-login-value{
+    color: rgb(0, 0, 0);
+    font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 15px;
+}
+.checkbox-value-login{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin: 10px 0px 0px 95px;
+}
+.submit-login-block{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.button-submit-style{
+    width: 200px;
+    height: 56px;
+    border-radius: 20px;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 20px;
+}
+.button-submit-style:hover{
+    transform: scale(1.2);
+    transition-duration: 1s;
+}

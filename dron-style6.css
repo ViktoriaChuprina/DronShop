@@ -1,0 +1,27 @@
+.body-class-style{
+    width: 1200px;
+    height: 800px;
+    background-color: #141617;
+}
+.wwa-caption{
+    color: white;
+    font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 54px;
+}
+.who-we-are-block{
+    text-align: center;
+    margin: 100px 0px 0px 244px;
+}
+.wwa-text{
+    color: white;
+    font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 22px;
+  line-height: 2;
+  margin: 20px 0px 0px 60px;
+}

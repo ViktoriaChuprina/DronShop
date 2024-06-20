@@ -1,0 +1,43 @@
+.body-dron-block1{
+    background-color: #141617;
+    width: 1200px;
+    height: 3500px;
+}
+.caption-block-camera{
+    color: white;
+    font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  text-align: center;
+  font-size: 48px;
+  margin: 144px 0px 0px 343px;
+}
+.blocks2,.blocks3,.blocks4{
+    width: 1200px;
+    height: 600px;
+    background-color: #2A2A2A;
+}
+.blocks-camera,.block-images-dron,.text-caption-dron-value{
+    display: flex;
+    flex-direction: column;
+    margin: 210px 0px 0px 150px;
+    gap: 80px;
+}
+.text-caption-dron-value{
+    color: white;
+    font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  text-align: center;
+  font-size: 40px;
+  gap: 620px;
+  margin: -100px 0px 0px 300px; 
+}
+.show-more-text{
+    display: flex;
+    flex-direction: column;
+    margin: -1300px 0px 0px 300px;
+    gap: 650px;
+}
